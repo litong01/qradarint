@@ -1,0 +1,20 @@
+---
+username: "tong"
+
+password: "ps"
+
+osrelease: liberty
+
+auth_uri: http://192.168.1.190:5000/v2.0
+auth_url: http://192.168.1.190:35357
+identity_uri: http://192.168.1.190:35357
+admin_tenant_name: service
+admin_user: admin
+admin_password: ps
+rabbit_host: 192.168.1.190
+rabbit_userid: stackrabbit
+rabbit_password: ps
+ceilometer_password: ps
+region_name: RegionOne
+cadf_only: true
+qradar_endpoint: http://qradar:1234/endpoint

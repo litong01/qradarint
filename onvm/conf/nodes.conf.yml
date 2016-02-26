@@ -1,0 +1,30 @@
+---
+mysqldb:
+  host_name: mysqldb.leap.dev
+  eth0: 9.30.107.132
+  eth1: 192.168.1.132
+
+keystone:
+  host_name: keystone.leap.dev
+  eth0: 9.30.107.133
+  eth1: 192.168.1.190
+
+glance:
+  host_name: glance.leap.dev
+  eth0: 9.30.107.134
+  eth1: 192.168.1.134
+
+neutron:
+  host_name: neutron.leap.dev
+  eth0: 9.30.107.135
+  eth1: 192.168.1.135
+
+nova:
+  host_name: nova.leap.dev
+  eth0: 9.30.107.136
+  eth1: 192.168.1.136
+
+ceilometer:
+  host_name: ceilometer.leap.dev
+  eth0: 9.30.107.137
+  eth1: 192.168.1.75
